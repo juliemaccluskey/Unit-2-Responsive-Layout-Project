@@ -17,7 +17,14 @@ a {
 	font-size: 1.07em
 }
 
-a:hover {
+#main-nav a:hover {
+	color: #36acd0;
+}
+#footer-nav a:hover {
+	color: #36acd0;
+}
+
+#back:hover {
 	color: #36acd0;
 }
 
