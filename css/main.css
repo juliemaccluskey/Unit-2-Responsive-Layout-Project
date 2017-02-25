@@ -184,7 +184,7 @@ footer a {
 
 /*Header Styles-----------------------------------*/
 
-@media (min-width: 769px) {
+@media (min-width: 768px) {
 	
 	#main-nav a {
 		display: inline;
@@ -304,7 +304,7 @@ footer a {
 	
 	h1 {
 		float: left;
-		font-size: 1em;
+		font-size: 2em;
 	}
 	
 	#main-nav {
